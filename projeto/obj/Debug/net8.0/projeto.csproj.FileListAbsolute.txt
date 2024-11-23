@@ -1,0 +1,14 @@
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\bin\Debug\net8.0\projeto.exe
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\bin\Debug\net8.0\projeto.deps.json
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\bin\Debug\net8.0\projeto.runtimeconfig.json
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\bin\Debug\net8.0\projeto.dll
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\bin\Debug\net8.0\projeto.pdb
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\obj\Debug\net8.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\obj\Debug\net8.0\projeto.AssemblyInfoInputs.cache
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\obj\Debug\net8.0\projeto.AssemblyInfo.cs
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\obj\Debug\net8.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\obj\Debug\net8.0\projeto.dll
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\obj\Debug\net8.0\refint\projeto.dll
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\obj\Debug\net8.0\projeto.pdb
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\obj\Debug\net8.0\projeto.genruntimeconfig.cache
+C:\Users\camps\Documents\GitHub\Projeto-Final-Camps\projeto\obj\Debug\net8.0\ref\projeto.dll
